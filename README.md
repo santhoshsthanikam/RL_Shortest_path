@@ -1,5 +1,9 @@
 # RL_Shortest_path
-# Train
+### Train
+```
 python main.py
-#Test 
+```
+###Test
+```
 python test.py <path-to-qtable.csv>
+```
